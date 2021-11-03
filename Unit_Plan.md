@@ -38,13 +38,16 @@ by Victoria Berkowitz and Stephannia Kabanakis
 ---
 
 ## Lessons
-Total lenght: 2 Weeks Every Other Day
+Total length: 2 Weeks
 
 (list each lesson with main topic(s))
 * Abstractions 
-* Lists (1 day of programming)
+* Lists 
+* 1 day of programming for Lists
 * Algorithms
-* List Practice (1 day of programming)
+* List Practice
+* 1 day of programming for Lists
+* Worksheet Guided Lesson
 ---
 
 ## Assesments
