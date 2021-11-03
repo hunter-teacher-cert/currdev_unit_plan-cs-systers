@@ -22,7 +22,17 @@ by Victoria Berkowitz and Stephannia Kabanakis
 
 ## Standards Referenced
 (select one of the standards sets reviewed in class (CSTA, NY, MA, RI), include a link and a brief explanation as to why you selected that set)
+* 9-12.CT.7
+Design or remix a program that
+utilizes a data structure to maintain
+changes to related pieces of data.
 
+* 9-12.CT.6
+Demonstrate how at least two classic
+algorithms work and analyze the
+trade-offs related to two or more
+algorithms for completing the same
+task.
 ---
 
 ## Tools Used
