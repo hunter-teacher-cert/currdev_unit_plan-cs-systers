@@ -58,10 +58,14 @@ Total length: 2 Weeks
 * List Practice
 * 1 day of programming for Lists
 * Worksheet Guided Lesson
+* Review
+* End of Unit Quiz
+* End of Unit Practice Create Performance Task
 ---
 
 ## Assesments
 (list summative and/or formative assessments used)
 * Worksheet assignments
 * Quiz at the end of the Unit
+* Practice Create Performance Task
 ---
