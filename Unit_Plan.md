@@ -53,9 +53,8 @@ Total length: 2 Weeks
 (list each lesson with main topic(s))
 * Abstractions 
 * Lists 
-* 1 day of programming for Lists
+* List Programming Practice
 * Algorithms
-* List Practice
 * 1 day of programming for Lists
 * Worksheet Guided Lesson
 * Review
